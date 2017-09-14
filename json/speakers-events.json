@@ -1,0 +1,35 @@
+{
+    "localisation": [
+        {
+            "sublocalisations": {
+                "localisation": [
+                    {
+                        "label": "Jef Wijsen",
+                        "tc": "00:00:02.6000",
+                        "tclevel": 1
+                    },
+                    {
+                        "label": "Christian Frisson",
+                        "tc": "00:01:28.5330",
+                        "tclevel": 1
+                    },
+                    {
+                        "label": "Jef Wijsen",
+                        "tc": "01:33:36.9660",
+                        "tclevel": 1
+                    }
+                ]
+            },
+            "type": "events",
+            "tcin": "00:00:00.0000",
+            "tcout": "01:43:43.5000",
+            "tclevel": 0
+        }
+    ],
+    "id": "speakers-events",
+    "type": "events",
+    "algorithm": "brute-force",
+    "processor": "Christian Frisson",
+    "processed": 1421141589279,
+    "version": 1
+}

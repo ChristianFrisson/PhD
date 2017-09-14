@@ -1,0 +1,390 @@
+{
+    "localisation": [
+        {
+            "sublocalisations": {
+                "localisation": [
+                    {
+                        "thumb": "slides/slide01.svg",
+                        "tc": "00:00:01.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide02.svg",
+                        "tc": "00:01:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide03.svg",
+                        "tc": "00:01:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide04.svg",
+                        "tc": "00:02:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide05.svg",
+                        "tc": "00:02:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide06.svg",
+                        "tc": "00:03:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide07.svg",
+                        "tc": "00:03:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide08.svg",
+                        "tc": "00:04:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide09.svg",
+                        "tc": "00:04:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide10.svg",
+                        "tc": "00:05:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide11.svg",
+                        "tc": "00:05:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide12.svg",
+                        "tc": "00:06:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide13.svg",
+                        "tc": "00:06:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide14.svg",
+                        "tc": "00:07:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide15.svg",
+                        "tc": "00:07:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide16.svg",
+                        "tc": "00:08:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide17.svg",
+                        "tc": "00:08:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide18.svg",
+                        "tc": "00:09:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide19.svg",
+                        "tc": "00:09:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide20.svg",
+                        "tc": "00:10:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide21.svg",
+                        "tc": "00:10:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide22.svg",
+                        "tc": "00:11:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide23.svg",
+                        "tc": "00:11:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide24.svg",
+                        "tc": "00:12:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide25.svg",
+                        "tc": "00:12:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide26.svg",
+                        "tc": "00:13:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide27.svg",
+                        "tc": "00:13:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide28.svg",
+                        "tc": "00:14:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide29.svg",
+                        "tc": "00:14:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide30.svg",
+                        "tc": "00:15:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide31.svg",
+                        "tc": "00:15:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide32.svg",
+                        "tc": "00:16:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide33.svg",
+                        "tc": "00:16:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide34.svg",
+                        "tc": "00:17:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide35.svg",
+                        "tc": "00:17:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide36.svg",
+                        "tc": "00:18:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide37.svg",
+                        "tc": "00:18:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide38.svg",
+                        "tc": "00:19:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide39.svg",
+                        "tc": "00:19:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide40.svg",
+                        "tc": "00:20:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide41.svg",
+                        "tc": "00:20:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide42.svg",
+                        "tc": "00:21:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide43.svg",
+                        "tc": "00:21:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide44.svg",
+                        "tc": "00:22:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide45.svg",
+                        "tc": "00:22:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide46.svg",
+                        "tc": "00:23:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide47.svg",
+                        "tc": "00:23:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide48.svg",
+                        "tc": "00:24:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide49.svg",
+                        "tc": "00:24:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide50.svg",
+                        "tc": "00:25:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide51.svg",
+                        "tc": "00:25:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide52.svg",
+                        "tc": "00:26:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide53.svg",
+                        "tc": "00:26:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide54.svg",
+                        "tc": "00:27:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide55.svg",
+                        "tc": "00:27:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide56.svg",
+                        "tc": "00:28:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide57.svg",
+                        "tc": "00:28:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide58.svg",
+                        "tc": "00:29:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide59.svg",
+                        "tc": "00:29:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide60.svg",
+                        "tc": "00:30:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide61.svg",
+                        "tc": "00:30:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide62.svg",
+                        "tc": "00:31:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide63.svg",
+                        "tc": "00:31:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide64.svg",
+                        "tc": "00:32:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide65.svg",
+                        "tc": "00:32:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide67.svg",
+                        "tc": "00:33:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide68.svg",
+                        "tc": "00:34:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide69.svg",
+                        "tc": "00:35:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide70.svg",
+                        "tc": "00:36:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide71.svg",
+                        "tc": "00:36:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide72.svg",
+                        "tc": "00:37:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide73.svg",
+                        "tc": "00:37:80.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide74.svg",
+                        "tc": "00:38:30.0000",
+                        "tclevel": 1
+                    },
+                    {
+                        "thumb": "slides/slide75.svg",
+                        "tc": "00:38:80.0000",
+                        "tclevel": 1
+                    }
+                ]
+            },
+            "type": "keyframes",
+            "tcin": "00:00:00.0000",
+            "tcout": "01:43:43.5000",
+            "tclevel": 0
+        }
+    ],
+    "id": "slides",
+    "type": "keyframes",
+    "algorithm": "brute-force",
+    "processor": "Christian Frisson",
+    "processed": 1421141589291,
+    "version": 1
+}

@@ -1,0 +1,6 @@
+.DS_Store
+*.mp4
+build
+samples-data
+samples
+*.pem

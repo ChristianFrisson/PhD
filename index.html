@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Christian Frisson: pr&eacute;sentation publique de th&egrave;se de doctorat</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="images/favicon.ico">
+        <link href="css/default.css" rel="stylesheet">
+        <script src="bower_components/jquery/dist/jquery.js"></script>
+        <script src="bower_components/jquery-ui/jquery-ui.min.js"></script>        
+        <script src="bower_components/raphael/raphael.js"></script>
+        <!-- style-player -->        
+        <link href="css/amalia.js.min.css" rel="stylesheet">
+        <!-- /style-player -->        
+        <!-- script-player -->        
+        <script src="js/amalia.js.min.js"></script>
+        <script src="js/amalia.js-plugin-timeline.min.js"></script>
+		<script type="text/javascript" src="js/amalia.js-yt-player.min.js"></script>
+		<script type="text/javascript" src="js/i18n/amalia.js-message-en.js"></script>
+		<!--Youtube IFrame API-->
+		<script src="//s.ytimg.com/yts/jsbin/www-widgetapi-vflpCdzwa/www-widgetapi.js"></script>
+        <!-- /script-player -->
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1><a href="http://frisson.re">Christian Frisson</a>: pr&eacute;sentation publique de th&egrave;se de doctorat</h1>  
+            </div>
+            <div class="content">           
+                <div class="demo">
+                    <div style="height: 350px;">
+                        <div id="my-player-yt"></div>
+                    </div>
+                    <div id="timeline"></div>
+                    <script>
+                        $( function () {
+                            $( "#my-player-yt" ).mediaPlayer( {
+                                src: "MBXZRS44MZE",
+                                autoplay : false,
+								player: "fr.ina.amalia.player.YtPlayer",
+                                autoplay : false,
+                                controlBar :
+                                    {
+                                        sticky : true
+                                    },
+                                plugins : {
+                                    dataServices : [
+                                        'json/speakers-events.json',
+										'json/speakers-segments.json',
+                                        'json/slides.json'
+                                    ],
+                                    list : [
+                                        {
+                                            'className' : 'fr.ina.amalia.player.plugins.TimelinePlugin',
+                                            'container' : '#timeline',
+                                            'parameters' : {
+                                                listOfLines : [
+                                                    {
+                                                        title : 'Phases',
+                                                        type : 'segment',
+                                                        metadataId : 'speakers-segments',
+                                                        color : '#F00'
+                                                    },
+                                                    {
+                                                        title : 'Locuteurs',
+                                                        type : 'cuepoint',
+                                                        metadataId : 'speakers-events',
+                                                        color : '#3CF',
+                                                        pointNav : true
+                                                    },
+                                                    {
+                                                        title : 'Transparents',
+                                                        type : 'image',
+                                                        metadataId : 'slides',
+                                                        pointNav : true
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            } );
+                        } );
+                    </script>
+                </div>
+            </div>
+            <div class="footer">
+                <p>
+                    <a href="http://frisson.re">Christian Frisson</a>: &quot;<i>Concevoir l'interaction pour la navigation dans des collections de contenu media (par similarit&eacute;)</i>&quot;, Universit&eacute; de Mons, Institut numediart, 17 f&eacute;vrier 2015.
+					<br/>Jury: Thierry Dutoit, St&eacute;phane Dupont, Xavier Siebert, Jean Vanderdonckt, Marcelo Wanderley, Jef Wijsen. 
+					<br/>Captation (<a href="https://www.youtube.com/watch?v=MBXZRS44MZE">ici</a>): Charles-Alexandre Delestage et Willy Yvart. Transparents: <a href="http://tcts.fpms.ac.be/~frisson/phd/public.html">ici</a>. Manuscript: <a href="https://tel.archives-ouvertes.fr/tel-01570858">ici</a>.
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
